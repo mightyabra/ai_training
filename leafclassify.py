@@ -20,8 +20,6 @@ st.title(':white[AI4AFS-UENR]')
 st.header(':white[Maize Disease/Pest Detection App]')
 
 #st.markdown("Prediction Platform")
-
-
 def set_background(main_bg):  # local image
     # set bg name
     main_bg_ext = "png"
