@@ -23,7 +23,7 @@ st.header(':white[Maize Disease/Pest Detection App]')
 
 
 def set_background(main_bg):  # local image
-    set bg name
+        set bg name
     main_bg_ext = "png"
     st.markdown(
         f"""
